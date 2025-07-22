@@ -1,4 +1,4 @@
-# Capstone: Explore Indonesia 🇮🇩
+# Capstone: Explore Indonesia
 
 <p align="center">
   <strong>Halaman Profil Resmi Proyek Capstone Explore Indonesia.</strong>
@@ -10,7 +10,7 @@
 
 ### 🎯 Tentang Proyek
 
-Selamat datang di halaman resmi proyek kami! Kami adalah tim yang sedang membangun sebuah platform digital untuk memperkenalkan dan menjelajahi pesona pariwisata, budaya, dan kuliner Indonesia.
+Selamat datang di halaman resmi Capstone kami! Kami adalah tim yang sedang membangun sebuah platform digital untuk memperkenalkan dan menjelajahi pesona pariwisata, budaya, dan kuliner Indonesia.
 
 Informasi lebih detail mengenai fitur dan arsitektur akan segera kami perbarui.
 
