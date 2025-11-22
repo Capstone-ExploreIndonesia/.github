@@ -25,6 +25,6 @@ Proyek kami akan terdiri dari beberapa bagian utama:
 
 Berikut adalah anggota tim yang berdedikasi untuk proyek ini:
 
-* **[@VladR382](https://github.com/VladR382)** -
+* **[@Atheraf](https://github.com/Atheraf)** -
 
 ---
