@@ -7,6 +7,7 @@
 </p>
 
 ---
+<img width="1037" height="582" alt="Screenshot 2026-02-24 133249" src="https://github.com/user-attachments/assets/0c5cf202-166e-431c-94b2-d79ddeb03a91" />
 
 ### 🎯 Tentang Proyek
 
